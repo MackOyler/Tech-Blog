@@ -3,7 +3,7 @@
 # Description
 A simple blog for tech writers. I am a tech writer myself and know how frustrating it can get using non-tech blog sites. So, I decided to create a simple tech blog, specifically for tech bloggers. 
 
-My current tech blog on Medium: Mack Oyler-[https://medium.com/@mackoyler]
+My current tech blog on Medium: [Mack Oyler]-[https://medium.com/@mackoyler]
 
 # User Story
 AS A developer who writes about tech
